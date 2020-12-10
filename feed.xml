@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+ <channel>
+  <title>The Noah</title>
+  <link>https://the-noah.github.io/podcast/</link>
+  <language>en-us</language>
+  <copyright>&#169; 2020 The Noah</copyright>
+  <description>TODO.</description>
+  <image>
+    <url>https://cdn.discordapp.com/icons/507694158971011092/c0fcc6e2c64ea5dd092ae333ccff6e18.png?size=1024</url>
+    <title>The Noah</title>
+    <link>https://the-noah.github.io/podcast/</link>
+  </image>
+  <itunes:image href="https://cdn.discordapp.com/icons/507694158971011092/c0fcc6e2c64ea5dd092ae333ccff6e18.png?size=1024"/>
+  <author>The Noah</author>
+  <itunes:author>The Noah</itunes:author>
+  <itunes:email>thenoahbz@gmail.com</itunes:email>
+  <itunes:owner>
+    <itunes:name>The Noah</itunes:name>
+    <itunes:email>thenoahbz@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Technology"/>
+  <itunes:explicit>false</itunes:explicit>
+  <pubDate>Wed, 9 Dec 2020 10:05:00 CST</pubDate>
+  <item>
+    <title>1: A Test Podcast</title>
+    <description>A very simple test podcast.</description>
+    <enclosure length="33317742" type="audio/mpeg" url="https://the-noah.github.io/podcast/audio/ep_1.mp3"/>
+    <guid>https://the-noah.github.io/podcast/audio/ep_1.mp3</guid>
+    <pubDate>Wed, 9 Dec 2020 10:05:00 CST</pubDate>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:episode>1</itunes:episode>
+    <itunes:duration>00:01</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>
